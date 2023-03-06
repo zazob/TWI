@@ -7,7 +7,7 @@ h1{
 
 body{
 
-   font-size: 10p;
+   font-size: 10px;
    font-family: verdana;
    background-color: rgba(0, 0, 0, 0.733);
 }
@@ -60,6 +60,13 @@ nav a{
 
 li{
     color: aliceblue;
+}
+
+
+main{  
+    position: fixed;
+    text-align: justify;
+
 }
 
 
