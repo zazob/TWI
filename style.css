@@ -7,7 +7,7 @@ h1{
 
 body{
 
-   font-size: 30px;
+   font-size: 10px;
    font-family: verdana;
    background-color: rgba(0, 0, 0, 0.733);
 }
@@ -20,7 +20,8 @@ body{
 p{ 
     text-align: left;
     color: aliceblue;
-    font-size: 30px;
+   
+    
 }
 
 #gratis{
