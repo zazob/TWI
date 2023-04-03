@@ -67,7 +67,8 @@ li{
 main{  
    
     text-align: left;
-    position: relative;
+    position: absolute;
+    border-left: 30px;
 
 }
 
