@@ -69,7 +69,7 @@ main{
     text-align: left;
     position: absolute;
     border-left: 500px;
-    text-align: initial;
+    text-align: calc(205);
 
 }
 
