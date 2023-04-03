@@ -13,8 +13,9 @@ body{
 }
 
 TWITWI {
-    width: 200%;
-    scale: 300%;
+    width: 100px;
+    height: 500px;
+
     
 }
 
@@ -66,8 +67,10 @@ li{
 
 main{  
    
-    text-align: left center;
-    margin: 37px 10px 27px 15px;
+    text-align: left 40px;
+    font-weight: bold;
+   padding: 25px 50px;
+    
     
     
 
