@@ -66,10 +66,9 @@ li{
 
 main{  
    
-    text-align: left;
-    position: absolute;
-    border-left: 500px;
-    text-align: calc(205);
+    text-align: left center;
+    
+    
 
 }
 
